@@ -1,0 +1,7 @@
+{
+    "name":"broweragent",
+    "author": "jmeo",
+    "main": "./browerAgent.js",
+    "keywords": ["userAgent","browerversion"],
+    "version": "0.1.0"
+}
